@@ -1,0 +1,11 @@
+text,url,is_phishing
+"Dear customer, your account has been locked. Please update your information at secure-bank.com-login.xyz",http://secure-bank.com-login.xyz/update,1
+"Hi Sarah, here are the meeting notes from yesterday. Let me know if you need anything else.",,0
+URGENT: Your account will be suspended. Click here to verify: secure-login.bank-verification.com,http://secure-login.bank-verification.com,1
+Your Amazon package has been shipped. Track it here: amazon.com/orders,https://amazon.com/orders,0
+"You've won $1,000,000! Claim now at lottery-winner.xyz",http://lottery-winner.xyz,1
+"Dear user, your PayPal account needs verification. Login at paypal-secure-login.com",http://paypal-secure-login.com,1
+"Hello, your invoice for this month's subscription is ready. View at billing.company.com",https://billing.company.com,0
+Security alert! Your bank account was accessed from an unknown device. Verify at bank-secure.com,http://bank-secure.com,1
+"Hi John, thanks for your order! Track your package at legit-store.com/tracking",https://legit-store.com/tracking,0
+Your account will be deactivated unless you confirm your details at account-verification.xyz,http://account-verification.xyz,1
